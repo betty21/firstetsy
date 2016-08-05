@@ -1,0 +1,10 @@
+{
+  "appId": "firstetsy",
+  "apiKey": "97b1cf9ca1354303685221c1f897a3e78e64da03e179b20584453a8f0712b29c",
+  "public": "./",
+  "ignore": [
+    "stamplay.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
